@@ -37,7 +37,7 @@ $ git clone https://github.com/openshift/sti-base.git
 $ cd sti-base
 $ make build
 ```
-Build nogcc version bigg01
+Build nogcc version bigg01 
 
 ```
 $ make build TARGET=centos7 --makefile=Makefile_nogcc
